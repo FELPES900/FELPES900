@@ -22,6 +22,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <br>
   <img align="right" width="150" height="150" alt="Rafa-Js" src="https://art.pixilart.com/8c472db45dafe95.gif" />
+  <img align="right" width="150" height="150" alt="Rafa-Js" src="https://i.pinimg.com/originals/aa/6c/b2/aa6cb256146a3d8678f16ce50ed3a153.jpg" />
 </div>
 
 ##
