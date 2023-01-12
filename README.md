@@ -9,17 +9,6 @@
 ## Olá, me chamo Felipe Fraga. Bem vindo ao meu perfil no github
 
 ## Contato
-
-
-- 🔭 Hoje estou trabalhando com o ADVPL
-- 🌱 Estudando o Angular
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Contate no email: felipefraga.assis@gmail.com
-
-## Olá, me chamo Felipe Fraga. Bem vindo ao meu perfil no github
-
-## Contato
 <div align="left">
     <a href="https://www.linkedin.com/in/felipe-fraga-2588b2260/">
         <img align="center" alt="Rafa-js"
@@ -64,4 +53,3 @@
         src="https://i.pinimg.com/originals/aa/6c/b2/aa6cb256146a3d8678f16ce50ed3a153.jpg" />
     <br>
 </div>
-##
