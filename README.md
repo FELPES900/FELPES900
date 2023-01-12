@@ -48,8 +48,9 @@
     <img align="center" alt="Rafa-js"
         src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <br>
-    <img align="right" width="150" height="150" alt="Rafa-Js" src="https://art.pixilart.com/8c472db45dafe95.gif" />
-    <img align="right" width="150" height="150" alt="Rafa-Js"
+    <br>
+    <img align="leftdth="150" height="150" alt="Rafa-Js" src="https://art.pixilart.com/8c472db45dafe95.gif" />
+    <img align="left" width="150" height="150" alt="Rafa-Js"
         src="https://i.pinimg.com/originals/aa/6c/b2/aa6cb256146a3d8678f16ce50ed3a153.jpg" />
     <br>
 </div>
