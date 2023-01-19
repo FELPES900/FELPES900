@@ -25,13 +25,16 @@
 </div>
 <br>
 <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=FELPES900&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=FELPES900&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=FELPES900&show_icons=true" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=FELPES900&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=FELPES900&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-js"
         src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
