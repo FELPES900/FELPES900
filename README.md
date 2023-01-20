@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F03207&height=120&section=header"/>
 
 - 🔭 Hoje estou trabalhando com o ADVPL
 - 🌱 Estudando o Angular
@@ -57,3 +57,4 @@
         src="https://i.pinimg.com/originals/aa/6c/b2/aa6cb256146a3d8678f16ce50ed3a153.jpg" />
     <br>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F03207&height=120&section=footer"/>
