@@ -1,9 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F03207&height=120&section=header"/>
 
+<div>
+    <picture>
+        <source srcset="https://readme-typing-svg.herokuapp.com/?color=FF1600&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Felipe+Fraga;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29" />
+        <source srcset="https://git.io/typing-svg" />
+    </picture>
+</div>
+
 - 🔭 Hoje estou trabalhando com o ADVPL
 - 🌱 Estudando o Angular
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Contate no email: felipefraga.assis@gmail.com
 
 ## Olá, me chamo Felipe Fraga. Bem vindo ao meu perfil no github
