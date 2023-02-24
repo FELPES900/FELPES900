@@ -55,4 +55,10 @@
         src="https://i.pinimg.com/originals/aa/6c/b2/aa6cb256146a3d8678f16ce50ed3a153.jpg" />
     <br>
 </div>
+<br>
+<div>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="Felipen Fraga Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=FELPES900&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    </a>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F03207&height=120&section=footer"/>
