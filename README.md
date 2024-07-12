@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F03207&height=120&section=header"/>
 
-- 🔭 Hoje estou trabalhando com o ADVPL
-- 🌱 Estudando o Angular
-- 💬 Contate no email: felipefraga.assis@gmail.com
+- 🔭 **Today I work with ADVPL**
+- 🌱 **Studying Angular**
+- 💬 **Contact by Email felipefraga.assis@gmail.com**
+- 💬 **Phone Contact: (65) 99665-9778** 
 
 ## Olá, me chamo Felipe Fraga. Bem vindo ao meu perfil no github
 
@@ -12,27 +13,21 @@
         <img align="center" alt="Rafa-js"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/FELPES900">
-        <img align="center" alt="Rafa-js"
-            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
     <a href="https://www.instagram.com/felpes900/">
         <img align="center" alt="Rafa-js"
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </div>
 <br>
-<picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=FELPES900&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=FELPES900&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<div>
+    <picture>
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api?username=FELPES900&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    </picture>
+</div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-js"
         src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
