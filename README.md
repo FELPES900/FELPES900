@@ -5,7 +5,7 @@
 - 💬 **Contact by Email felipefraga.assis@gmail.com**
 - 💬 **Phone Contact: (65) 99665-9778** 
 
-## Olá, me chamo Felipe Fraga. Bem vindo ao meu perfil no github
+## Hello, my name is Felipe Fraga, welcome to the profile
 
 ## Contato
 <div align="left">
@@ -27,28 +27,21 @@
         />
         <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
     </picture>
+     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=FELPES900&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=9&theme=dark&hide_border=false&order=2" height="130" alt="languages graph" />
+</div>
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-js"
-        src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img align="center" alt="Rafa-js"
-        src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="Raja.js"
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="Rafa-js"
-        src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="Rafa-js"
-        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" alt="Rafa-js"
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="Rafa-js"
-        src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <br>
-    <br>
-    <img align="leftdth="150" height="150" alt="Rafa-Js" src="https://art.pixilart.com/8c472db45dafe95.gif" />
-    <img align="left" width="150" height="150" alt="Rafa-Js"
-        src="https://i.pinimg.com/originals/aa/6c/b2/aa6cb256146a3d8678f16ce50ed3a153.jpg" />
-    <br>
+    <img align="center" alt="Rafa-js" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img align="center" alt="Rafa-js" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="GIT"     src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img align="center" alt="GitHub"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img align="center" alt="Raja.js" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" alt="Rafa-js" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="Advpl"   src="https://img.shields.io/badge/Advpl-0078D4?style=for-the-badge" />
+    <img align="center" alt="TL++"    src="https://img.shields.io/badge/TL++-ffea00?style=for-the-badge" />  
+    <img align="center" alt="Rafa-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img align="center" alt="Rafa-js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img align="center" alt="Rafa-js" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 <br>
 <div>
